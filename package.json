@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ercasale97/friendFinder.git"
+  },
+  "author": "Emily Casale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ercasale97/friendFinder/issues"
+  },
+  "homepage": "https://github.com/ercasale97/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "json": "^9.0.6",
+    "path": "^0.12.7"
+  }
+}
